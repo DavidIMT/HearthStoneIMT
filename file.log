@@ -1,0 +1,288 @@
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: Début du tour de explo-man
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: Fin de tour du joueur explo-man
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: le décapiteur, pv : 30
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: []
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: explo-man, pv : 30
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: []
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: Début du tour de le décapiteur
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: Monstre posé : soigneur
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: Fin de tour du joueur le décapiteur
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: explo-man, pv : 30
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: []
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: le décapiteur, pv : 30
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=3, nom='soigneur', pointVie=3 pointForce=3]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: Début du tour de explo-man
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: Monstre posé : mascotte
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: Fin de tour du joueur explo-man
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: le décapiteur, pv : 30
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=3, nom='soigneur', pointVie=3 pointForce=3]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: explo-man, pv : 30
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=2, nom='mascotte', pointVie=1 pointForce=0]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: Début du tour de le décapiteur
+nov. 15, 2023 4:29:56 PM org.example.model.monstres.Soigneur joueSonTour
+INFO: soigneur soigne le monstre soigneur
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: Fin de tour du joueur le décapiteur
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: explo-man, pv : 30
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=2, nom='mascotte', pointVie=1 pointForce=0]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: le décapiteur, pv : 30
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=3, nom='soigneur', pointVie=6 pointForce=3]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: Début du tour de explo-man
+nov. 15, 2023 4:29:56 PM org.example.model.monstres.Mascotte joueSonTour
+INFO: mascotte boost le monstre mascotte
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: Monstre posé : monstre
+nov. 15, 2023 4:29:56 PM org.example.model.capacites.CapaciteExplosion declencheCapacite
+INFO: Capacité activée.. Explosion de la mort qui tue 💣
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: Fin de tour du joueur explo-man
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: le décapiteur, pv : 28
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=3, nom='soigneur', pointVie=4 pointForce=3]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: explo-man, pv : 30
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=2, nom='mascotte', pointVie=1 pointForce=2, id=0, nom='monstre', pointVie=3 pointForce=2]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: Début du tour de le décapiteur
+nov. 15, 2023 4:29:56 PM org.example.model.monstres.Soigneur joueSonTour
+INFO: soigneur soigne le monstre soigneur
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: Monstre posé : protecteur
+nov. 15, 2023 4:29:56 PM org.example.model.capacites.CapaciteEradication declencheCapacite
+INFO: Utilisation de ma capacité spéciale... Eradication !!! 
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: Fin de tour du joueur le décapiteur
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: explo-man, pv : 25
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=2, nom='mascotte', pointVie=1 pointForce=2, id=0, nom='monstre', pointVie=3 pointForce=2]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: le décapiteur, pv : 28
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=3, nom='soigneur', pointVie=7 pointForce=3, id=1, nom='protecteur', pointVie=5 pointForce=1]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: Début du tour de explo-man
+nov. 15, 2023 4:29:56 PM org.example.model.monstres.Mascotte joueSonTour
+INFO: mascotte boost le monstre monstre
+nov. 15, 2023 4:29:56 PM org.example.model.monstres.Monstre joueSonTour
+INFO: monstre attaque le monstre protecteur
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: Fin de tour du joueur explo-man
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: le décapiteur, pv : 28
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=3, nom='soigneur', pointVie=7 pointForce=3, id=1, nom='protecteur', pointVie=1 pointForce=1]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: explo-man, pv : 25
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=2, nom='mascotte', pointVie=1 pointForce=2, id=0, nom='monstre', pointVie=3 pointForce=4]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: Début du tour de le décapiteur
+nov. 15, 2023 4:29:56 PM org.example.model.monstres.Soigneur joueSonTour
+INFO: soigneur soigne le monstre protecteur
+nov. 15, 2023 4:29:56 PM org.example.model.monstres.Monstre joueSonTour
+INFO: protecteur attaque le monstre explo-man
+nov. 15, 2023 4:29:56 PM org.example.model.capacites.CapaciteEradication declencheCapacite
+INFO: Utilisation de ma capacité spéciale... Eradication !!! 
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: Fin de tour du joueur le décapiteur
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: explo-man, pv : 19
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=2, nom='mascotte', pointVie=1 pointForce=2, id=0, nom='monstre', pointVie=3 pointForce=4]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: le décapiteur, pv : 28
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=3, nom='soigneur', pointVie=7 pointForce=3, id=1, nom='protecteur', pointVie=4 pointForce=1]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: Début du tour de explo-man
+nov. 15, 2023 4:29:56 PM org.example.model.monstres.Mascotte joueSonTour
+INFO: mascotte boost le monstre mascotte
+nov. 15, 2023 4:29:56 PM org.example.model.monstres.Monstre joueSonTour
+INFO: monstre attaque le monstre protecteur
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: Fin de tour du joueur explo-man
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: le décapiteur, pv : 28
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=3, nom='soigneur', pointVie=7 pointForce=3]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: explo-man, pv : 19
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=2, nom='mascotte', pointVie=1 pointForce=4, id=0, nom='monstre', pointVie=3 pointForce=4]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: Début du tour de le décapiteur
+nov. 15, 2023 4:29:56 PM org.example.model.monstres.Soigneur joueSonTour
+INFO: soigneur soigne le monstre soigneur
+nov. 15, 2023 4:29:56 PM org.example.model.capacites.CapaciteEradication declencheCapacite
+INFO: Utilisation de ma capacité spéciale... Eradication !!! 
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: Fin de tour du joueur le décapiteur
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: explo-man, pv : 14
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=2, nom='mascotte', pointVie=1 pointForce=4, id=0, nom='monstre', pointVie=3 pointForce=4]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: le décapiteur, pv : 28
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=3, nom='soigneur', pointVie=10 pointForce=3]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: Début du tour de explo-man
+nov. 15, 2023 4:29:56 PM org.example.model.monstres.Mascotte joueSonTour
+INFO: mascotte boost le monstre monstre
+nov. 15, 2023 4:29:56 PM org.example.model.monstres.Monstre joueSonTour
+INFO: monstre attaque le monstre le décapiteur
+nov. 15, 2023 4:29:56 PM org.example.model.capacites.CapaciteExplosion declencheCapacite
+INFO: Capacité activée.. Explosion de la mort qui tue 💣
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: Fin de tour du joueur explo-man
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: le décapiteur, pv : 20
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=3, nom='soigneur', pointVie=8 pointForce=3]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: explo-man, pv : 14
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=2, nom='mascotte', pointVie=1 pointForce=4, id=0, nom='monstre', pointVie=3 pointForce=6]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: Début du tour de le décapiteur
+nov. 15, 2023 4:29:56 PM org.example.model.monstres.Soigneur joueSonTour
+INFO: soigneur soigne le monstre soigneur
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: Fin de tour du joueur le décapiteur
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: explo-man, pv : 14
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=2, nom='mascotte', pointVie=1 pointForce=4, id=0, nom='monstre', pointVie=3 pointForce=6]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: le décapiteur, pv : 20
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=3, nom='soigneur', pointVie=11 pointForce=3]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: Début du tour de explo-man
+nov. 15, 2023 4:29:56 PM org.example.model.monstres.Mascotte joueSonTour
+INFO: mascotte boost le monstre monstre
+nov. 15, 2023 4:29:56 PM org.example.model.monstres.Monstre joueSonTour
+INFO: monstre attaque le monstre le décapiteur
+nov. 15, 2023 4:29:56 PM org.example.model.capacites.CapaciteExplosion declencheCapacite
+INFO: Capacité activée.. Explosion de la mort qui tue 💣
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: Fin de tour du joueur explo-man
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: le décapiteur, pv : 10
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=3, nom='soigneur', pointVie=9 pointForce=3]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: explo-man, pv : 14
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=2, nom='mascotte', pointVie=1 pointForce=4, id=0, nom='monstre', pointVie=3 pointForce=8]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: Début du tour de le décapiteur
+nov. 15, 2023 4:29:56 PM org.example.model.monstres.Soigneur joueSonTour
+INFO: soigneur soigne le monstre soigneur
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: Fin de tour du joueur le décapiteur
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau updateReferences
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: explo-man, pv : 14
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=2, nom='mascotte', pointVie=1 pointForce=4, id=0, nom='monstre', pointVie=3 pointForce=8]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: le décapiteur, pv : 10
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau affichePlateau
+INFO: ses monstres posés: [id=3, nom='soigneur', pointVie=12 pointForce=3]
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: =====================================
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: Début du tour de explo-man
+nov. 15, 2023 4:29:56 PM org.example.model.monstres.Mascotte joueSonTour
+INFO: mascotte boost le monstre monstre
+nov. 15, 2023 4:29:56 PM org.example.model.monstres.Monstre joueSonTour
+INFO: monstre attaque le monstre le décapiteur
+nov. 15, 2023 4:29:56 PM org.example.model.capacites.CapaciteExplosion declencheCapacite
+INFO: Capacité activée.. Explosion de la mort qui tue 💣
+nov. 15, 2023 4:29:56 PM org.example.model.Plateau prochainTour
+INFO: Champion le décapiteur KO, le gagnant est : explo-man
